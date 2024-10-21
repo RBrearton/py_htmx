@@ -1,5 +1,5 @@
 {
-  "cSpell.words": ["Brearton", "htmx"],
+  "cSpell.words": ["Brearton", "htmx", "pydantic"],
   "black-formatter.args": ["--line-length=80"],
   "editor.rulers": [80],
   "[python]": {
