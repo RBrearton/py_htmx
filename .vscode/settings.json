@@ -1,5 +1,18 @@
 {
-  "cSpell.words": ["Brearton", "htmx", "pydantic"],
+  "cSpell.words": [
+    "accesskey",
+    "afterbegin",
+    "afterend",
+    "beforebegin",
+    "beforeend",
+    "Brearton",
+    "contenteditable",
+    "enterkeyhint",
+    "htmx",
+    "inputmode",
+    "pydantic",
+    "tabindex"
+  ],
   "black-formatter.args": ["--line-length=80"],
   "editor.rulers": [80],
   "[python]": {
