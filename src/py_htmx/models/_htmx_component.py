@@ -6,7 +6,7 @@ class for all the htmx models.
 from pydantic import BaseModel as PydanticBaseModel
 
 
-class HtmxBaseModel(PydanticBaseModel):
+class HtmxComponent(PydanticBaseModel):
     """
     The base class for all the htmx models.
     """
